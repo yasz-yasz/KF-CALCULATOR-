@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.KFCalculator" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/sia_navy</item>
+    </style>
+</resources>
